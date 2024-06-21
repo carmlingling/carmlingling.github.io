@@ -36,59 +36,6 @@ Scientists II</a></h4>
 
 ---
 
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h4 class="card-title"><a href="https://moodle.tu-darmstadt.de/course/info.php?id=29042" target="_blank" rel="noopener noreferrer">Nuclear Astrophysics I</a></h4>
-        <h5 class="card-subtitle font-italic">Teaching Assistant</h5>
-      </div>
-    </div>
-    <br>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-
-        <p>
-        This graduate seminar covers central topics in nuclear astrophysics: from big bang nucleosynthesis to neutron stars and supernova explosions.
-        </p>
-
-        <p>
-        <i class="fas fa-chalkboard-teacher"></i>&nbsp; Gave a lecture on experimental nuclear astrophysics and helped with the practical exercises (computer lab).
-        </p>
-
-      </ul>
-</div>
-</div>
-
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h4 class="card-title"><a href="https://moodle.tu-darmstadt.de/course/info.php?id=21080" target="_blank" rel="noopener noreferrer">Astrophysics</a></h4>
-        <h5 class="card-subtitle font-italic">Teaching Assistant</h5>
-      </div>
-    </div>
-    <br>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-
-        <p>
-        This graduate seminar covers central topics in nuclear astrophysics: from big bang nucleosynthesis to neutron stars and supernova explosions.
-        </p>
-
-        <p>
-        <i class="fas fa-chalkboard-teacher"></i>&nbsp; Consulting students for their research projects (Stellar Structure and Explosive Nucleosynthesis).
-        </p>
-
-      </ul>
-</div>
-</div>
-
-
-
-<br>
-
-
-
 ### [McMaster University](https://www.physics.mcmaster.ca/)
 
 ---
@@ -118,18 +65,7 @@ Scientists II</a></h4>
         <i class="fas fa-flask"></i>&nbsp; Leading labs.
         </p>
 
-        From anonymous student evaluations:
-        <blockquote>
-        <i class="fas fa-quote-left"></i>&nbsp; He was really helpful with explanation when we were stuck with some concepts. Explained in a patient and relatable way.
-        </blockquote>
-
-        <blockquote>
-        <i class="fas fa-quote-left"></i>&nbsp; He was very encouraging to all students and helped create a very positive learning environment (even if you got the wrong answer he was encouraging)
-        </blockquote>
-
-        <blockquote>
-        <i class="fas fa-quote-left"></i>&nbsp; Love how he explained many times until you understand the concept. Very patient, and he made physics less scary.
-        </blockquote>
+     
       </ul>
 </div>
 </div>
@@ -138,12 +74,12 @@ Scientists II</a></h4>
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h4 class="card-title"><a href="http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=13&coid=101480" target="_blank" rel="noopener noreferrer">Introduction to Modern Physics</a></h4>
+        <h4 class="card-title"><a href="https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279366" target="_blank" rel="noopener noreferrer">Introductory Mechanics</a></h4>
         <h5 class="card-subtitle font-italic">Teaching Assistant</h5>
       </div>
       <div class="col-sm-2 text-sm-right">
         <abbr class="badge" style='background-color: var(--global-theme-color);'>
-          PHYS1AA3
+          PHYS1D03
         </abbr>
       </div>
     </div>
@@ -151,7 +87,7 @@ Scientists II</a></h4>
     <ul class="card-text font-weight-light list-group list-group-flush">
 
         <p>
-        A course presenting aspects of modern physics relevant to life sciences. Electromagnetic fields. Atomic, quantum, and nuclear physics. Applications to imaging and understanding biological systems.
+      A course for engineering students. Principles of mechanics of particles and rigid bodies, including Newton’s Laws, rotational kinematics and dynamics, torque, energy, momentum, angular momentum, and simple harmonic motion.
         </p>
 
         <p>
@@ -195,6 +131,35 @@ Scientists II</a></h4>
     <div class="row">
       <div class="col-sm-10">
         <h4 class="card-title"><a href="https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=41&coid=214717" target="_blank" rel="noopener noreferrer">The Big Questions</a></h4>
+        <h5 class="card-subtitle font-italic">Head Teaching Assistant</h5>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <abbr class="badge" style='background-color: var(--global-theme-color);'>
+          ASTRO2B03
+        </abbr>
+      </div>
+    </div>
+    <br>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+
+        <p>
+        Ultimate questions in modern science are surveyed with emphasis on physical sciences: origin of space-time, elements and structure in the cosmos (stars, planets, galaxies). Additional tasks include training TAs, organizing the course, administrative duties
+        </p>
+
+        <p>
+        <i class="fas fa-chalkboard-teacher"></i>&nbsp; Administration
+        </p>
+
+        
+
+      </ul>
+</div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h4 class="card-title"><a href="https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=41&coid=214717" target="_blank" rel="noopener noreferrer">The Big Questions</a></h4>
         <h5 class="card-subtitle font-italic">Teaching Assistant</h5>
       </div>
       <div class="col-sm-2 text-sm-right">
@@ -214,19 +179,7 @@ Scientists II</a></h4>
         <i class="fas fa-chalkboard-teacher"></i>&nbsp; Leading tutorials.
         </p>
 
-        From anonymous student evaluations:
-        <blockquote>
-        <i class="fas fa-quote-left"></i>&nbsp; He always had extra, additional information to give us on the topics. Not only did it make the concepts more clear, but it made the tutorials more interesting. Also, he was very approachable and really promoted a team atmosphere to the tutorial. I feel that our tutorial was pretty "close" in the sense that we all were comfortable speaking and building off one anothers' ideas.
-        </blockquote>
-
-        <blockquote>
-        <i class="fas fa-quote-left"></i>&nbsp; I loved how approachable he was! He made me feel really comfortable asking questions and talking to him in general :) I've never had such an approachable/friendly TA before actually!
-        </blockquote>
-
-        <blockquote>
-        <i class="fas fa-quote-left"></i>&nbsp; He was always very clear and was knowledgeable about a vast number of things.
-        </blockquote>
-
+        
 
       </ul>
 </div>
@@ -236,12 +189,12 @@ Scientists II</a></h4>
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h4 class="card-title"><a href="https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=38&coid=202108" target="_blank" rel="noopener noreferrer">Physics</a></h4>
+        <h4 class="card-title"><a href = "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280842" target="_blank" rel="noopener noreferrer">Introductory Laboratory</a></h4>
         <h5 class="card-subtitle font-italic">Teaching Assistant</h5>
       </div>
-      <div class="col-sm-2 abbr">
+      <div class="col-sm-2 text-sm-right">
         <abbr class="badge" style='background-color: var(--global-theme-color);'>
-          ARTSCI2D06
+          PHYS2P03
         </abbr>
       </div>
     </div>
@@ -249,7 +202,91 @@ Scientists II</a></h4>
     <ul class="card-text font-weight-light list-group list-group-flush">
 
         <p>
-        This course explores many of the great concepts of physics in a quantitative way. Beginning with Newtonian mechanics, it moves into Einstein’s relativity, wave phenomena, atomic physics, quantum mechanics and cosmology. Selected laboratory projects will be carried out.
+      An introduction to common techniques in experimental physics, data analysis and error analysis.
+        </p>
+
+        <p>
+        <i class="fas fa-flask"></i>&nbsp; Leading labs.
+        </p>
+
+      </ul>
+</div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h4 class="card-title"><a href ="https://experts.mcmaster.ca/display/award-thermodynamics-physics-2h04" target="_blank" rel="noopener noreferrer">Thermodynamics</a></h4>
+        <h5 class="card-subtitle font-italic">Teaching Assistant</h5>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <abbr class="badge" style='background-color: var(--global-theme-color);'>
+          PHYS2H04
+        </abbr>
+      </div>
+    </div>
+    <br>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+
+        <p>
+      An introduction to thermodynamics for Engineering Physics and Physics students.
+        </p>
+
+        <p>
+        <i class="fas fa-flask"></i>&nbsp; Leading labs.
+        </p>
+
+      </ul>
+</div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h4 class="card-title"><a href = "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280845" target="_blank" rel="noopener noreferrer">Advanced Laboratory</a></h4>
+        <h5 class="card-subtitle font-italic">Teaching Assistant</h5>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <abbr class="badge" style='background-color: var(--global-theme-color);'>
+          PHYS3P03
+        </abbr>
+      </div>
+    </div>
+    <br>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+
+        <p>
+      Experiments in atomic physics, neutron physics, optics, spectroscopy, mechanics. As part of this course, students will become familiar with computing for instrument interfacing, data visualization and data analysis.
+        </p>
+
+        <p>
+        <i class="fas fa-flask"></i>&nbsp; Leading labs.
+        </p>
+
+      </ul>
+</div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h4 class="card-title"><a href = "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=53&coid=265220" target="_blank" rel="noopener noreferrer">Molecular Biophysics</a></h4>
+        <h5 class="card-subtitle font-italic">Teaching Assistant</h5>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <abbr class="badge" style='background-color: var(--global-theme-color);'>
+          PHYS4S03/6S03
+        </abbr>
+      </div>
+    </div>
+    <br>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+
+        <p>
+      A presentation of recent contributions made to the fields of molecular and cell biology by the use of physical approaches. In particular, the following topics are discussed: physical properties of biomolecules, protein folding, molecular motors, cell motion and cell adhesion. Emphasis on the critical evaluation of current research literature.
         </p>
 
         <p>
@@ -260,17 +297,18 @@ Scientists II</a></h4>
 </div>
 </div>
 
+### [Dalhousie University](https://www.dal.ca/faculty/science/physics.html)
 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h4 class="card-title"><a href="https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=38&coid=201693" target="_blank" rel="noopener noreferrer">Light, Universe and Everything</a></h4>
+        <h4 class="card-title"><a href ="https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=53&coid=265220" target="_blank" rel="noopener noreferrer">Physics in and around you</a></h4>
         <h5 class="card-subtitle font-italic">Teaching Assistant</h5>
       </div>
       <div class="col-sm-2 text-sm-right">
         <abbr class="badge" style='background-color: var(--global-theme-color);'>
-          iSCI3A12
+          PHYC1300
         </abbr>
       </div>
     </div>
@@ -278,35 +316,40 @@ Scientists II</a></h4>
     <ul class="card-text font-weight-light list-group list-group-flush">
 
         <p>
-        Interdisciplinary research projects and development of scientific and literacy skills (including data analysis, inquiry/scientific communication and leadership). Students will participate in individual and team research projects in field and laboratory settings. Up to three mandatory one day field trips will be held.
+      A presentation of recent contributions made to the fields of molecular and cell biology by the use of physical approaches. In particular, the following topics are discussed: physical properties of biomolecules, protein folding, molecular motors, cell motion and cell adhesion. Emphasis on the critical evaluation of current research literature.
         </p>
 
         <p>
-        <i class="fas fa-chalkboard-teacher"></i>&nbsp; Consulting students for their research project.
+        <i class="fas fa-flask"></i>&nbsp; Leading labs.
         </p>
 
       </ul>
 </div>
 </div>
-
-
-<!--
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h4 class="card-title"><a href="{{ site.baseurl }}/teaching/reaction-networks" target="_blank" rel="noopener noreferrer">Introduction to Thermonuclear Reaction Networks</a></h4>
-        <h5 class="card-subtitle font-italic">Notes</h5>
+        <h4 class="card-title"><a href = "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=53&coid=265220" target="_blank" rel="noopener noreferrer">Introduction to Physics</a></h4>
+        <h5 class="card-subtitle font-italic">Teaching Assistant</h5>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <abbr class="badge" style='background-color: var(--global-theme-color);'>
+          PHYC1290
+        </abbr>
       </div>
     </div>
     <br>
     <ul class="card-text font-weight-light list-group list-group-flush">
 
         <p>
-        A primer to thermonuclear reaction network calculations, based on a lecture to the 2nd Frontiers Summer School (May 2023)
+     This course concentrates on oscillations and waves, optics, electricity and magnetism. Primarily for students interested in Physical Sciences and Engineering.
+        </p>
+
+        <p>
+        <i class="fas fa-flask"></i>&nbsp; Leading labs.
         </p>
 
       </ul>
 </div>
 </div>
--->

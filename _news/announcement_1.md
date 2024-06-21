@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-06-17
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+New paper alert :boom:! [Buckling instability in a chain of sticky bubbles](https://doi.org/10.1103/PhysRevResearch.6.L022062) is now available at Phys. Rev. Research
