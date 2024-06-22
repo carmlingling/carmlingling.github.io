@@ -6,7 +6,6 @@ description:
 nav: true
 ---
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 
 
@@ -53,14 +52,6 @@ nav: true
 </div>
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid" src="" alt="" title=""/>
-    </div>
-</div>
-<div class="caption">
-    Presenting at the JINA Frontiers in Nuclear Astrophysics conference in South Bend, IN (2022).
-</div>
 
 <div class="news">  
    <h3>posters</h3>

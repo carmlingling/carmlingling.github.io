@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Liquids, Solids and the Squishy-Gooey Things In-Between
 img: assets/img/p1.jpg
 importance: 1
 category: work
