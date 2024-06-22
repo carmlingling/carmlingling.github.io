@@ -7,7 +7,16 @@ nav: true
 ---
 
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid" src="" alt="" title=""/>
+    </div>
+</div>
+<div class="caption">
+    .
+</div>
 
 ### overview
 ---
