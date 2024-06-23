@@ -7,16 +7,7 @@ nav: true
 ---
 
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid" src="" alt="" title=""/>
-    </div>
-</div>
-<div class="caption">
-    .
-</div>
 
 ### overview
 ---
@@ -28,8 +19,6 @@ nav: true
 {% assign total_invited =  invited_talks.size | plus: invited_posters.size %}
 
 {{ total_invited }} invited talks/posters  &nbsp; &middot; &nbsp; {{ total | minus: total_invited }} contributed talks/posters
-
-<i class="fa fa-desktop"></i> slides &nbsp;| &nbsp; <i class="fa fa-video"></i> recording &nbsp;| &nbsp; <i class="ai ai-figshare"></i> figshare
 
 <br>
 
